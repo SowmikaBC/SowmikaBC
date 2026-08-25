@@ -1,26 +1,27 @@
-## Hi👋,I'm Sowmika
+# Hi 👋, I'm Sowmika
+
 ## About Me
 
-Computer Science Student
-Intrested in Software Development
-Currently improving my programming and problem-solving skills
+🎓 Computer Science Student  
+💻 Interested in Software Development  
+🌱 Currently improving my programming and problem-solving skills  
 
-##Skills
+## Skills
 
-###Programming Languages
--Java
--SQL
+### Programming Languages
+- Java
+- SQL
 
 ### Web Development
--HTML
--CSS
+- HTML
+- CSS
 
-###Tools & Technologies
--MySQL
--Git
--GitHub
+### Tools & Technologies
+- MySQL
+- Git
+- GitHub
 
-## Currently learning
--Full-Stack Development
+## Currently Learning
+- Full-Stack Development
 
-##Projects
+## Projects
