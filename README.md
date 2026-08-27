@@ -1,43 +1,58 @@
-# Hi 👋, I'm Sowmika
+# 👋 Hi, I'm Sowmika
 
-## About Me
+### 🎓 Computer Science Student | 💻 Developer | 🤖 AI Enthusiast
 
-🎓 Computer Science Student  
-💻 Interested in Software Development  
-🤖 Exploring Artificial Intelligence  
-🌱 Currently improving my programming and problem-solving skills  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!+👋;Computer+Science+Student+🎓;Software+Development+Enthusiast+💻;Exploring+Artificial+Intelligence+🤖;Always+Learning+%26+Building+🚀" alt="Typing SVG" />
+</p>
 
-## Skills
+---
 
-### Programming Languages
-- Java
-- Python
-- SQL
+## 🌟 About Me
 
-### Web Development
-- HTML
-- CSS
-- JavaScript
+🎓 I'm a **Computer Science student** passionate about technology, software development, and Artificial Intelligence.
 
-### Tools & Technologies
-- MySQL
-- Git
-- GitHub
+💻 I enjoy learning new programming concepts, solving problems, and building practical projects.
 
-## Currently Learning
-- Full-Stack Development
-- Data Structures & Algorithms
-- Artificial Intelligence
+🌱 Currently focused on improving my **coding, problem-solving, and full-stack development skills**.
 
-## Projects
+🤖 I'm also exploring **Artificial Intelligence** and looking for opportunities to apply AI to real-world problems.
 
-- 🤖 AI Risk Detection and Management System
-- 👨‍💼 Employee Management System
-- 🛒 Student Campus E-Commerce Marketplace
+---
 
-## Goals
+## 🛠️ Tech Stack
 
-🚀 Build real-world software projects  
-📚 Improve my coding and problem-solving skills  
-💡 Explore new technologies and AI  
-🌐 Become a skilled software developer
+### 👩‍💻 Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+### 🔧 Tools & Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+## 📚 Currently Learning
+
+```text
+🔹 Full-Stack Development
+🔹 Data Structures & Algorithms
+🔹 Artificial Intelligence
+🔹 Problem Solving
+🔹 Software Development
