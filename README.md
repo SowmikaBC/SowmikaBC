@@ -2,10 +2,6 @@
 
 ### 🎓 Computer Science Student | 💻 Developer | 🤖 AI Enthusiast
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!+👋;Computer+Science+Student+🎓;Software+Development+Enthusiast+💻;Exploring+Artificial+Intelligence+🤖;Always+Learning+%26+Building+🚀" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 🌟 About Me
